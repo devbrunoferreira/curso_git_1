@@ -1,1 +1,4 @@
-Arquivo A
+Arquivo A.
+Testando
+uma atualização
+de arquivo.
