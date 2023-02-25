@@ -2,3 +2,4 @@ d.txt
 node_modules/*
 components/Main.js
 components/Main.css
+components/*
